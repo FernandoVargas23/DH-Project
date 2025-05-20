@@ -18,7 +18,7 @@
 
    
 
- **El proyecto consiste en la planificación, desarrollo y realización de una plataforma web para la promoción y comercialización** de la afamada institución gastronómica "Los Ninjas Hermanos". Mi objetivo es lograr:
+ **El proyecto consiste en la planificación, desarrollo y realización de una plataforma web para la promoción y comercialización** de la afamada institución gastronómica. Mi objetivo es lograr:
 
 *Canal para la toma de pedidos y comercialización de los diferentes productos. 
 
