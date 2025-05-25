@@ -1,22 +1,23 @@
 {
-  "name": "tpformargrupo9",
+  "name": "dh-dashboard-api",
   "version": "1.0.0",
-  "description": "***\r # Proyecto Integrador  Fundación     Formar Curso 9°",
+  "description": "API y dashboard para mostrar métricas de productos y usuarios.",
   "main": "src/app.js",
   "scripts": {
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pandakan/tpFormarGrupo9.git"
+    "url": "git+https://github.com/FernandoVargas23/DH-Project.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fernando Vargas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pandakan/tpFormarGrupo9/issues"
+    "url": "https://github.com/FernandoVargas23/DH-Project/issues"
   },
-  "homepage": "https://github.com/pandakan/tpFormarGrupo9#readme",
+  "homepage": "https://github.com/FernandoVargas23/DH-Project#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parse": "^0.4.0",
